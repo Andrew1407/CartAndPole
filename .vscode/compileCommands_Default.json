@@ -1,0 +1,186 @@
+[
+	{
+		"file": "X:\\Progects\\UnrealEngine\\CartAndPole\\Source\\CartAndPole\\CartAndPole.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@X:\\Progects\\UnrealEngine\\CartAndPole\\.vscode\\compileCommands_Default\\CartAndPole.272.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Progects\\UnrealEngine\\CartAndPole\\Source\\CartAndPole\\Private\\CartAndPole.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@X:\\Progects\\UnrealEngine\\CartAndPole\\.vscode\\compileCommands_Default\\CartAndPole.272.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Progects\\UnrealEngine\\CartAndPole\\Source\\CartAndPole\\Private\\CartAndPoleGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@X:\\Progects\\UnrealEngine\\CartAndPole\\.vscode\\compileCommands_Default\\CartAndPole.272.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Progects\\UnrealEngine\\CartAndPole\\Source\\CartAndPole\\Private\\Connection\\UdpClient.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@X:\\Progects\\UnrealEngine\\CartAndPole\\.vscode\\compileCommands_Default\\CartAndPole.272.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Progects\\UnrealEngine\\CartAndPole\\Source\\CartAndPole\\Private\\Mechanism\\CartPoleMechanism.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@X:\\Progects\\UnrealEngine\\CartAndPole\\.vscode\\compileCommands_Default\\CartAndPole.272.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Progects\\UnrealEngine\\CartAndPole\\Source\\CartAndPole\\Private\\Mechanism\\NneModelComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@X:\\Progects\\UnrealEngine\\CartAndPole\\.vscode\\compileCommands_Default\\CartAndPole.272.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Progects\\UnrealEngine\\CartAndPole\\Source\\CartAndPole\\Private\\Mechanism\\QLearningTrainigComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@X:\\Progects\\UnrealEngine\\CartAndPole\\.vscode\\compileCommands_Default\\CartAndPole.272.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Progects\\UnrealEngine\\CartAndPole\\Source\\CartAndPole\\Private\\ModelActor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@X:\\Progects\\UnrealEngine\\CartAndPole\\.vscode\\compileCommands_Default\\CartAndPole.272.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Progects\\UnrealEngine\\CartAndPole\\Source\\CartAndPole\\Private\\Model\\CpuNneModel.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@X:\\Progects\\UnrealEngine\\CartAndPole\\.vscode\\compileCommands_Default\\CartAndPole.272.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Progects\\UnrealEngine\\CartAndPole\\Source\\CartAndPole\\Private\\Model\\GpuNneModel.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@X:\\Progects\\UnrealEngine\\CartAndPole\\.vscode\\compileCommands_Default\\CartAndPole.272.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Progects\\UnrealEngine\\CartAndPole\\Source\\CartAndPole\\Private\\Model\\NneModelUtils.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@X:\\Progects\\UnrealEngine\\CartAndPole\\.vscode\\compileCommands_Default\\CartAndPole.272.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Progects\\UnrealEngine\\CartAndPole\\Source\\CartAndPole\\Public\\CartAndPole.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@X:\\Progects\\UnrealEngine\\CartAndPole\\.vscode\\compileCommands_Default\\CartAndPole.272.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Progects\\UnrealEngine\\CartAndPole\\Source\\CartAndPole\\Public\\CartAndPoleGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@X:\\Progects\\UnrealEngine\\CartAndPole\\.vscode\\compileCommands_Default\\CartAndPole.272.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Progects\\UnrealEngine\\CartAndPole\\Source\\CartAndPole\\Public\\Connection\\UdpClient.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@X:\\Progects\\UnrealEngine\\CartAndPole\\.vscode\\compileCommands_Default\\CartAndPole.272.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Progects\\UnrealEngine\\CartAndPole\\Source\\CartAndPole\\Public\\Mechanism\\CartPoleMechanism.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@X:\\Progects\\UnrealEngine\\CartAndPole\\.vscode\\compileCommands_Default\\CartAndPole.272.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Progects\\UnrealEngine\\CartAndPole\\Source\\CartAndPole\\Public\\Mechanism\\MovementInput.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@X:\\Progects\\UnrealEngine\\CartAndPole\\.vscode\\compileCommands_Default\\CartAndPole.272.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Progects\\UnrealEngine\\CartAndPole\\Source\\CartAndPole\\Public\\Mechanism\\NneModelComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@X:\\Progects\\UnrealEngine\\CartAndPole\\.vscode\\compileCommands_Default\\CartAndPole.272.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Progects\\UnrealEngine\\CartAndPole\\Source\\CartAndPole\\Public\\Mechanism\\QLearningTrainigComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@X:\\Progects\\UnrealEngine\\CartAndPole\\.vscode\\compileCommands_Default\\CartAndPole.272.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Progects\\UnrealEngine\\CartAndPole\\Source\\CartAndPole\\Public\\ModelActor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@X:\\Progects\\UnrealEngine\\CartAndPole\\.vscode\\compileCommands_Default\\CartAndPole.272.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Progects\\UnrealEngine\\CartAndPole\\Source\\CartAndPole\\Public\\Model\\CpuNneModel.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@X:\\Progects\\UnrealEngine\\CartAndPole\\.vscode\\compileCommands_Default\\CartAndPole.272.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Progects\\UnrealEngine\\CartAndPole\\Source\\CartAndPole\\Public\\Model\\GpuNneModel.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@X:\\Progects\\UnrealEngine\\CartAndPole\\.vscode\\compileCommands_Default\\CartAndPole.272.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Progects\\UnrealEngine\\CartAndPole\\Source\\CartAndPole\\Public\\Model\\NneModel.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@X:\\Progects\\UnrealEngine\\CartAndPole\\.vscode\\compileCommands_Default\\CartAndPole.272.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "X:\\Progects\\UnrealEngine\\CartAndPole\\Source\\CartAndPole\\Public\\Model\\NneModelUtils.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@X:\\Progects\\UnrealEngine\\CartAndPole\\.vscode\\compileCommands_Default\\CartAndPole.272.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	}
+]
